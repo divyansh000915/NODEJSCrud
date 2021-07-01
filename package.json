@@ -1,0 +1,17 @@
+{
+  "name": "node.js-mysql-crud-operations-master",
+  "version": "1.0.0",
+  "description": "Content Discussed :  - How to Connect MySQL DB from Node.js - Execute MySQL Query From Node.js - Use of MySQL Store Procedure in Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.9"
+  }
+}
